@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+Hi. I'm Takkapi. I'm 17 years old and I am a small programmer who can't decide what programming language to choose and what programming industry to work on.
+I like watching anime, I'm still in highschool and trying to work on a project.
+Preffered programming languages: Rust, C++ and C#
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f8135b5ce9f4ca5896b7fd?variant=dark&roadmaps=cpp%2Cgame-developer%2Cserver-side-game-developer%2Cflutter)](https://roadmap.sh)
