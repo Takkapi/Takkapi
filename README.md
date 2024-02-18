@@ -5,7 +5,7 @@ I like watching anime, I'm still in highschool and trying to work on a project.
 Preffered programming languages: Rust, C++ and C#
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f8135b5ce9f4ca5896b7fd?variant=dark&roadmaps=cpp%2Cgame-developer%2Cserver-side-game-developer%2Cflutter)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f8135b5ce9f4ca5896b7fd?variant=dark&roadmaps=cpp%2Cgame-developer%2Cserver-side-game-developer%2Cbackend)](https://roadmap.sh)
 <!--
 **Takkapi/Takkapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
