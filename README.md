@@ -42,5 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takkapi&" alt="takkapi" /></p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64f8135b5ce9f4ca5896b7fd?variant=dark&roadmaps=javascript%2Cnodejs%2Cbackend%2Capi-design" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64f8135b5ce9f4ca5896b7fd?variant=dark&roadmaps=javascript%2Cnodejs%2Cbackend%2Capi-design" alt="roadmap.sh"/></a>
 
